@@ -16,4 +16,21 @@
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="$(MicrosoftExtensionsConfigurationJsonPackageVersion)" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\fonts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Remove="wwwroot\fonts\Futura-Bold.ttf" />
+    <EmbeddedResource Remove="wwwroot\fonts\Futura-Book.ttf" />
+    <EmbeddedResource Remove="wwwroot\fonts\Futura-Light.ttf" />
+    <EmbeddedResource Remove="wwwroot\fonts\Futura-Medium.ttf" />
+    <EmbeddedResource Remove="wwwroot\fonts\Futura-Regular.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\fonts\Futura-Bold.ttf" />
+    <None Include="wwwroot\fonts\Futura-Book.ttf" />
+    <None Include="wwwroot\fonts\Futura-Light.ttf" />
+    <None Include="wwwroot\fonts\Futura-Medium.ttf" />
+    <None Include="wwwroot\fonts\Futura-Regular.ttf" />
+  </ItemGroup>
 </Project>

@@ -1,17 +1,11 @@
 ﻿<Properties StartupConfiguration="{9D78FE2C-4179-47F6-B28A-034868280197}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/OrchardCore.Themes/TheTheme/Views/Layout.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/OrchardCore.Themes/TheBlogTheme/wwwroot/Styles/blog.min.css">
     <Files>
-      <File FileName="src/OrchardCore.Themes/SafeMode/Views/Layout.cshtml" Line="1" Column="1" />
-      <File FileName="src/OrchardCore.Themes/TheAdmin/Views/Navigation-admin.cshtml" Line="1" Column="1" />
-      <File FileName="src/OrchardCore.Themes/TheAdmin/Views/NavigationItem-admin.cshtml" Line="1" Column="1" />
-      <File FileName="src/OrchardCore.Themes/TheAdmin/Views/NavigationItemLink-admin.cshtml" Line="1" Column="1" />
-      <File FileName="src/OrchardCore.Themes/TheAdmin/_ViewImports.cshtml" Line="1" Column="1" />
-      <File FileName="src/OrchardCore.Themes/TheAgencyTheme/Recipes/agency.recipe.json" Line="1" Column="1" />
-      <File FileName="src/OrchardCore.Themes/TheAgencyTheme/Views/Layout.cshtml" Line="1" Column="1" />
-      <File FileName="src/OrchardCore.Themes/TheAgencyTheme/wwwroot/index.html" Line="1" Column="1" />
-      <File FileName="src/OrchardCore.Themes/TheTheme/Views/Menu.cshtml" Line="1" Column="1" />
-      <File FileName="src/OrchardCore.Themes/TheTheme/Views/MenuItem.cshtml" Line="1" Column="1" />
-      <File FileName="src/OrchardCore.Themes/TheTheme/Views/Layout.cshtml" Line="1" Column="1" />
+      <File FileName="src/OrchardCore.Themes/TheBlogTheme/Views/Layout.liquid" Line="21" Column="91" />
+      <File FileName="src/OrchardCore.Themes/TheBlogTheme/Views/Menu.liquid" Line="1" Column="1" />
+      <File FileName="src/OrchardCore.Themes/TheBlogTheme/Views/MenuItem.liquid" Line="1" Column="1" />
+      <File FileName="src/OrchardCore.Themes/TheBlogTheme/Recipes/blog.recipe.json" Line="1" Column="1" />
+      <File FileName="src/OrchardCore.Themes/TheBlogTheme/wwwroot/Styles/blog.min.css" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.src.OrchardCore.Samples.OrchardCore.Mvc.OrchardCore.Mvc.Web PreferredExecutionTarget="MonoDevelop.Default" />
